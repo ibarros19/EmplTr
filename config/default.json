@@ -1,0 +1,26 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "111222333",
+        "database": "employee_db",
+        "multipleStatements": true
+    },
+    "appMenuChoices": [
+        "View all Employees",
+        "Add Employee",
+        "Update Employee Role",
+        "View all Roles",
+        "Add Role",
+        "View all Departments",
+        "Add Department",
+        "Exit"
+    ],
+    "addEmployeeQuestions": [
+        "What is the employee's first name?",
+        "What is the employee's last name?",
+        "What is the employee's role?",
+        "Who is the employee's manager?"
+    ]
+}

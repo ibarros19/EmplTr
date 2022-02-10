@@ -1,0 +1,15 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql2": "^2.3.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ivi Barros",
+  "license": "ISC"
+}
