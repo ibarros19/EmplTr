@@ -26,11 +26,11 @@ To run the application, please run the command line: "npm install" or "npm i" fo
 ## Screenshots<br>
 <table>
 <tr>
-<td><img src="assets/img/screenshot1.png" target="blank" width=400px></td>
+<td><img src="img/screenshot1.png" target="blank" width=400px></td>
 <tr>
-<td><img src="assets/img/screenshot2.png" target="blank" width=400px></td>
+<td><img src="img/screenshot2.png" target="blank" width=400px></td>
 <tr>
-<td><img src="assets/img/screenshot3.png" target="blank" width=400px></td>
+<td><img src="img/screenshot3.png" target="blank" width=400px></td>
 </tr>
 </tr>
 </table>
