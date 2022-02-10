@@ -1,4 +1,5 @@
 # Employee Tracker
+<a name='home'></a>
   ![License](https://img.shields.io/badge/License-MIT-blue)
   <h2>Table of Contents</h2>
   
@@ -10,6 +11,7 @@
   
 <a name='description'></a>
 ## Description
+[Main Menu](#home)
 
 Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called **content management systems (CMS)**. 
 
@@ -18,6 +20,8 @@ My challenge for this project was to build a command-line application from scrat
 
 <a name='usage'></a>
 ## Usage
+
+[Main Menu](#home)
   
 To run the application, please run the command line: "npm install" or "npm i" followed by the command "npm start"
 
@@ -38,6 +42,7 @@ To run the application, please run the command line: "npm install" or "npm i" fo
 <a name='live'></a>
 
 ## Links
+[Main Menu](#home)
 
 GitHub Repository: <a href="https://github.com/ibarros19/EmplTr" target="_blank">https://github.com/ibarros19/EmplTr</a> 
 <br>
@@ -45,4 +50,6 @@ Video Demo: <a href="https://ibarros19.github.io/" target="_blank">LINK</a>
 <a name='questions'></a>
 
 ## Questions
+[Main Menu](#home)
+
 If you have any further questions, please feel free to contact me on GitHub at [ivibarros19](https://github.com/ivibarros19) or by email at [ivibarros19@gmail.com](ivibarros19@gmail.com).
