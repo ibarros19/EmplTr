@@ -1,14 +1,19 @@
-# Employee Tracker
 <a name='home'></a>
+# Employee Tracker
+
   ![License](https://img.shields.io/badge/License-MIT-blue)
   <h2>Table of Contents</h2>
   
+  * [Technologies](#tech)
   * [Description](#description)
   * [Usage](#usage)
   * [Screenshots](#scrs)
   * [Link to the live view](#live)
   * [Questions](#questions)
-  
+
+<a name='tech'></a>
+## Technologies
+Javascript / Node.js / MySQL
 <a name='description'></a>
 ## Description
 [Main Menu](#home)
