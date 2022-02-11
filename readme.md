@@ -4,6 +4,14 @@
 ## License
 
   ![License](https://img.shields.io/badge/License-MIT-blue)
+  <br>
+  
+  <a name='tech'></a>
+## Technologies
+  ![js](https://img.shields.io/badge/JS-JavaScript-red) ![HTML](https://img.shields.io/badge/%3C%3E-HTML-brightgreen) ![NODE](https://img.shields.io/badge/npm-Node.js-lightgrey) 
+  <br>
+  
+  
   <h2>Table of Contents</h2>
   
   * [Technologies](#tech)
@@ -13,9 +21,8 @@
   * [Link to the live view](#live)
   * [Questions](#questions)
 
-<a name='tech'></a>
-## Technologies
-Javascript / Node.js / MySQL
+
+
 <a name='description'></a>
 ## Description
 [Main Menu](#home)
