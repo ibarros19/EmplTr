@@ -44,9 +44,9 @@ To run the application, please run the command line: "npm install" or "npm i" fo
 ## Links
 [Main Menu](#home)
 
-GitHub Repository: <a href="https://github.com/ibarros19/EmplTr" target="_blank">https://github.com/ibarros19/EmplTr</a> 
+GitHub Repository-> <a href="https://github.com/ibarros19/EmplTr" target="_blank">LINK</a> 
 <br>
-Video Demo: <a href="https://ibarros19.github.io/" target="_blank">LINK</a> 
+Video Demo-> <a href="https://youtu.be/ILOAL9LC7tQ" target="_blank">LINK</a> 
 <a name='questions'></a>
 
 ## Questions
