@@ -6,7 +6,7 @@
   * [Description](#description)
   * [Usage](#usage)
   * [Screenshots](#scrs)
-  * [Link to the live site](#live)
+  * [Link to the live view](#live)
   * [Questions](#questions)
   
 <a name='description'></a>
@@ -41,7 +41,7 @@ To run the application, please run the command line: "npm install" or "npm i" fo
 <br>
 <a name='live'></a>
 
-## Links
+## Live view
 [Main Menu](#home)
 
 GitHub Repository-> <a href="https://github.com/ibarros19/EmplTr" target="_blank">LINK</a> 
