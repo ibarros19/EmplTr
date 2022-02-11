@@ -133,9 +133,8 @@ const updateRole = () => {
         ]).then((answer) => {
             const query = `UPDATE employees SET role_id = ? WHERE id = ?`
             connection.query(query, [answer.role_id, answer.employee_id], defaultErrorHandler)
+            showMainMenu();
         })
-
-
     })
 
 }
@@ -154,9 +153,11 @@ const updateRole = () => {
 
 // FIX HERE ============================================
 const viewRoles = () => {
-    let query = `SELECT id, title AS "Title" FROM roles
-
-    `;
+    let query = `
+        SELECT r.id, r.title AS "Title", d.department_name as "Department", r.salary as "Salary"
+        FROM roles r
+        INNER JOIN departments d ON d.id = r.department_id
+        `;
     connection.query(query, (err, results) => {
         if (err) throw err;
 
