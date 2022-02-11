@@ -1,6 +1,8 @@
 <a name='home'></a>
 # Employee Tracker
 
+## License
+
   ![License](https://img.shields.io/badge/License-MIT-blue)
   <h2>Table of Contents</h2>
   
